@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "name": "Juan",
+      "email": "juan@gmail.com",
+      "phone": "666956636",
+      "company": "Audi",
+      "id": 29
+    },
+    {
+      "name": "Alex Fernández",
+      "email": "alex.fernandez.arroyo@gmail.com",
+      "phone": "666956636",
+      "company": "Casa",
+      "id": 31
+    },
+    {
+      "name": "Miguel",
+      "email": "miguelon@asdasd.com",
+      "phone": "565656565",
+      "company": "adasdasd",
+      "id": 32
+    }
+  ]
+}
